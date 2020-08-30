@@ -1,6 +1,9 @@
 ## UNBC Town Crier
 [https://www.unbc.ca/convocation/town-crier](https://www.unbc.ca/convocation/town-crier)
 
+## Hagrid's Beard Oil
+[Hagrid's Beard Oil](https://wooferm.github.io/wooferm/beard.html)
+
 ## Facebook
 [https://www.facebook.com/wooferm](https://www.facebook.com/wooferm)
 
